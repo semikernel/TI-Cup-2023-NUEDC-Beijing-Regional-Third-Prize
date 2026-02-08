@@ -40,7 +40,7 @@ This project focuses on real-time signal acquisition, frequency spectrum analysi
   2023 年全国大学生电子设计竞赛（TI杯）北京赛区三等奖获奖证书
 
 - **[B23212s.pdf](./B23212s.pdf)**  
-  完整比赛设计报告（中文，9页），包含系统方案、理论分析、程序设计、测试结果等  
+  完整比赛设计报告（中文，7页），包含系统方案、理论分析、程序设计、测试结果等  
 
 ## 报告摘要（中文）
 
