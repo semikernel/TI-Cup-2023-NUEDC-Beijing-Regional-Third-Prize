@@ -1,5 +1,9 @@
 # TI Cup 2023 National Undergraduate Electronic Design Contest (NUEDC)
 
+[![Award](https://img.shields.io/badge/Award-Third%20Prize-blue)](NUEDC_Award.png)
+[![Platform](https://img.shields.io/badge/Platform-STM32F407-orange)](https://www.st.com/en/microcontrollers-microprocessors/stm32f407-417.html)
+[![DSP](https://img.shields.io/badge/DSP-CMSIS--DSP-green)](https://arm-software.github.io/CMSIS_5/DSP/html/index.html)
+
 **Award:** Third Prize, Beijing Regional Division  
 **Role:** Embedded Signal Processing & System Implementation
 
